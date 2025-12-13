@@ -1,3 +1,0 @@
-/cygdrive/d/cppprj/qdqj/qdqj1/cmake-build-debug/CMakeFiles/qdqj1.dir
-/cygdrive/d/cppprj/qdqj/qdqj1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/cppprj/qdqj/qdqj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
