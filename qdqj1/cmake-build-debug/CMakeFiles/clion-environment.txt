@@ -1,5 +1,0 @@
-ToolSet: 3.6.5 (local)@D:\work
-Ninja: null@D:\work\CLion 2025.2.2\bin\ninja\cygwin\x64\ninja.exe
-Options: 
-
-Options:-DCMAKE_MAKE_PROGRAM=/CLion 2025.2.2/bin/ninja/cygwin/x64/ninja.exe
