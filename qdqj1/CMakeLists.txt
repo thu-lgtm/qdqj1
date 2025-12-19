@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 4.0)
+project(try_1)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(try_1 main.cpp
+        Enums.cpp
+        Enums.h
+        Structs.h
+        Player.cpp
+        Player.h
+        Game.cpp
+        Game.h
+        Strategy.cpp
+        Strategy.h
+        Extension.h
+        CardDatabase.h
+        CardDatabase.cpp
+)
